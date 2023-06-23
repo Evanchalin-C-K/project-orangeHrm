@@ -1,0 +1,12 @@
+{
+  "UserName" : "Admin",
+  "Password" : "admin123",
+  "Name" : [{
+      "FirstName" : "Evanchalin",
+      "LastName" : "C K"
+
+    }],
+  "DOB" : "1994-03-28",
+  "License_No": "1234 5678 9012",
+  "ID" : "7358"
+}
